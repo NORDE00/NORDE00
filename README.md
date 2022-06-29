@@ -4,3 +4,9 @@
 - ### ELLT ( English Linguistics & Language Technology )
 - ### Electronic Engineering
 Sangwon Roh
+
+
+#### learning..
+Natural Language Processing...
+Data Science...
+Verilog HDL...
