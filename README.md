@@ -6,13 +6,14 @@
 Sangwon Roh
 
 
-#### learning..
+### learning..
 Natural Language Processing...
 Data Science...
 Verilog HDL...
 
-#### Also...  
-  
-  HUFS Musical Club RAON 13th President (1 year as a actor)  
-  HUFS Tennis Club ACE  
-  HUFS College of English Soccer Association HESA   
+### Also...  
+HUFS Musical Club RAON 13th President
+HUFS Tennis Club ACE  
+HUFS College of English, Soccer Association HESA  
+Student Counsil  
+so on -  
