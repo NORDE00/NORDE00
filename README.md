@@ -1,21 +1,21 @@
 # SANGWON ROH (노상원)
 ## Hankuk University of Foreign Studies
-### Majoring..
+
+### Majoring
 - ### ELLT ( English Linguistics & Language Technology )
-- ### Electronic Engineering
-Sangwon Roh
+- ### Electronic Engineering  
 
+### and I'm learning
+Natural Language Processing
+Data Science
+Verilog HDL
 
-#### learning..
-Natural Language Processing...
-Data Science...
-Verilog HDL...
-
-### Also...  
+### Also 
   
   #### **HUFS Musical Club RAON 13th President**
+  
   *Spring Awakening* - Hanschen  (2022)  
   *bare: A Pop Opera* - Alan & Priest  (2021)  
   
   HUFS Tennis Club ACE  
-  HUFS College of English Soccer Association HESA   
+  HUFS College of English Soccer Association HESA  
