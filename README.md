@@ -12,7 +12,7 @@ Verilog HDL
 
 ### Also 
   
-  #### HUFS Musical Club RAON ** 13th President **
+  #### HUFS Musical Club RAON 13th President  
   *Spring Awakening* - Hanschen  (2022)  
   *bare: A Pop Opera* - Alan & Priest  (2021)  
   
