@@ -7,11 +7,13 @@
 
 ### and I'm learning <br>
 Natural Language Processing <br>
+Machine / Deep Learning <br>
 Data Science <br>
 Verilog HDL <br>
+HTML, CSS, Flask
 
 
-2022 Data Youth Campus in HUFS by KDATA (데이터청년캠퍼스 한국외국어대학교) wearecute5
+2022 Data Youth Campus in HUFS by KDATA <br>
 
 ### Also 
   
