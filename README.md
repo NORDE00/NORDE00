@@ -10,6 +10,9 @@ Natural Language Processing
 Data Science
 Verilog HDL
 
+
+2022 Data Youth Campus in HUFS by KDATA (데이터청년캠퍼스 한국외국어대학교) wearecute5
+
 ### Also 
   
   #### HUFS Musical Club RAON 13th President  
