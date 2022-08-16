@@ -1,6 +1,8 @@
 # SANGWON ROH (노상원)
 ## Hankuk University of Foreign Studies
 
+[![Video Label](http://img.youtube.com/vi/hicBIl9ByXg/0.jpg)](https://youtu.be/hicBIl9ByXg)
+
 ### Majoring
 - ### ELLT ( English Linguistics & Language Technology )
 - ### Electronic Engineering  
