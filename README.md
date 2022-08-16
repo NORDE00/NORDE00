@@ -5,10 +5,10 @@
 - ### ELLT ( English Linguistics & Language Technology )
 - ### Electronic Engineering  
 
-### and I'm learning
-Natural Language Processing
-Data Science
-Verilog HDL
+### and I'm learning <br>
+Natural Language Processing <br>
+Data Science <br>
+Verilog HDL <br>
 
 
 2022 Data Youth Campus in HUFS by KDATA (데이터청년캠퍼스 한국외국어대학교) wearecute5
